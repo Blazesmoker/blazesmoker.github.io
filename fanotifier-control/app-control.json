@@ -1,41 +1,37 @@
 {
-    "schema_version":  1,
-    "revision":  2,
-    "app_disabled":  false,
-    "update_url":  "https://discord.com/channels/991855522913460224/991864987750518855",
-    "disabled_info_url":  "https://discord.com/channels/991855522913460224/991864987750518855",
-    "platforms":  {
-                      "android":  {
-                                      "latest_version":  "1.3.6",
-                                      "min_supported_version":  "1.3.6",
-                                      "blocked_versions":  [
-
-                                                           ]
-                                  },
-                      "ios":  {
-                                  "latest_version":  "1.3.6",
-                                  "min_supported_version":  "1.3.6",
-                                  "blocked_versions":  [
-
-                                                       ]
-                              }
-                  },
-    "screens":  {
-                    "update_available":  {
-                                             "title":  "New Update Available!",
-                                             "message":  ""
-                                         },
-                    "update_required":  {
-                                            "title":  "Update required",
-                                            "message":  "Please update FA Notifier to continue."
-                                        },
-                    "app_disabled":  {
-                                         "title":  "FA Notifier is temporarily unavailable",
-                                         "message":  "Please check again later or visit Official FurAffinity Discord for updates."
-                                     },
-                    "service_unavailable":  {
-                                                "title":  null,
-                                                "message":  null
-                                            }
-                }
+  "schema_version": 1,
+  "revision": 3,
+  "app_disabled": true,
+  "update_url": "https://discord.com/channels/991855522913460224/991864987750518855",
+  "disabled_info_url": "https://discord.com/channels/991855522913460224/991864987750518855",
+  "platforms": {
+    "android": {
+      "latest_version": "1.3.6",
+      "min_supported_version": "1.3.6",
+      "blocked_versions": []
+    },
+    "ios": {
+      "latest_version": "1.3.6",
+      "min_supported_version": "1.3.6",
+      "blocked_versions": []
+    }
+  },
+  "screens": {
+    "update_available": {
+      "title": null,
+      "message": null
+    },
+    "update_required": {
+      "title": null,
+      "message": null
+    },
+    "app_disabled": {
+      "title": null,
+      "message": null
+    },
+    "service_unavailable": {
+      "title": null,
+      "message": null
+    }
+  }
 }
