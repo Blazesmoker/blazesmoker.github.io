@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "revision": 6,
-  "app_disabled": true,
+  "revision": 7,
+  "app_disabled": false,
   "update_url": "https://discord.com/channels/991855522913460224/991864987750518855",
   "disabled_info_url": "https://discord.com/channels/991855522913460224/991864987750518855",
   "platforms": {
@@ -27,7 +27,7 @@
     },
     "app_disabled": {
       "title": null,
-      "message": "Please check again later or visit Official FurAffinity Discord for updates. test2"
+      "message": "Please check again later or visit Official FurAffinity Discord for updates."
     },
     "service_unavailable": {
       "title": null,
