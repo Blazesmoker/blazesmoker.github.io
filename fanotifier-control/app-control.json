@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "revision": 10,
+  "revision": 11,
   "app_disabled": false,
   "beta_tests": [
     {
       "id": "beta-1794302268553309",
-      "enabled": false,
+      "enabled": true,
       "mode": "fa_plus_or_exceptions",
       "targets": {
         "android": [
