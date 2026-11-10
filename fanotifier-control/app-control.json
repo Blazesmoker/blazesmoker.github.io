@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 12,
+  "revision": 13,
   "app_disabled": false,
   "beta_tests": [
     {
@@ -24,7 +24,6 @@
       "exception_profile_urls": [
         "https://www.furaffinity.net/user/nevermoan/",
         "https://www.furaffinity.net/user/blazesmoker",
-        "https://www.furaffinity.net/user/neverfan/",
         "https://www.furaffinity.net/user/nevermown/"
       ]
     }
