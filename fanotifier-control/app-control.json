@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 13,
+  "revision": 14,
   "app_disabled": false,
   "beta_tests": [
     {
@@ -25,7 +25,13 @@
         "https://www.furaffinity.net/user/nevermoan/",
         "https://www.furaffinity.net/user/blazesmoker",
         "https://www.furaffinity.net/user/nevermown/"
-      ]
+      ],
+      "screens": {
+        "fa_plus_required": {
+          "title": "Closed testing",
+          "message": null
+        }
+      }
     }
   ],
   "update_url": "https://discord.com/channels/991855522913460224/991864987750518855",
