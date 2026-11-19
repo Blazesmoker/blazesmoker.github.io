@@ -1,33 +1,8 @@
 {
   "schema_version": 1,
-  "revision": 15,
+  "revision": 16,
   "app_disabled": false,
-  "beta_tests": [
-    {
-      "id": "beta-1794302268553309",
-      "enabled": true,
-      "mode": "fa_plus_or_exceptions",
-      "targets": {
-        "android": [
-          {
-            "version": "1.3.6",
-            "build": "32"
-          }
-        ],
-        "ios": [
-          {
-            "version": "1.3.6",
-            "build": "32"
-          }
-        ]
-      },
-      "exception_profile_urls": [
-        "https://www.furaffinity.net/user/nevermoan/",
-        "https://www.furaffinity.net/user/blazesmoker",
-        "https://www.furaffinity.net/user/nevermown/"
-      ]
-    }
-  ],
+  "beta_tests": [],
   "update_url": "https://discord.com/channels/991855522913460224/991864987750518855",
   "disabled_info_url": "https://discord.com/channels/991855522913460224/991864987750518855",
   "platforms": {
